@@ -7,4 +7,4 @@ app.get(
   (c) => c.text("Hi! This is Area149. This server managed by @Comamoca!"),
 );
 
-Deno.serve({ port: 34149 }, app.fetch);
+Deno.serve({ port: 34141 }, app.fetch);
